@@ -1,3 +1,6 @@
+<img width="2089" height="753" alt="ChatGPT Image 29_09_2026, 23_16_21" src="https://github.com/user-attachments/assets/3deb9647-6526-402d-85e2-5c7ef94679e6" />
+
+
 <div align="center">
 
 # 👋 Olá, eu sou Emmanuel Oliveira
