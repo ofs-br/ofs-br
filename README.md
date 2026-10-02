@@ -1,186 +1,166 @@
-<img width="2089" height="753" alt="ChatGPT Image 29_09_2026, 23_16_21" src="https://github.com/user-attachments/assets/3deb9647-6526-402d-85e2-5c7ef94679e6" />
-
-
 <div align="center">
 
-# 👋 Olá, eu sou Emmanuel Oliveira
+<img width="2089" height="231" alt="banner-github" src="https://github.com/user-attachments/assets/7ab89f22-d7a6-4012-aec3-22e299166b93" />
 
-### Full Stack Developer | React • Next.js • TypeScript • Node.js
+# Emmanuel Oliveira
 
-Desenvolvedor em transição de carreira para tecnologia, unindo **experiência em gestão de negócios** com desenvolvimento de software, resolução de problemas e visão orientada a produto.
+### Full Stack Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ofs-br\&color=0e75b6\&style=flat)](https://github.com/oliveirafullstack)
-[![GitHub followers](https://img.shields.io/github/followers/ofs-br?style=flat\&logo=github)](https://github.com/ofs-br)
+**React · Next.js · TypeScript · Node.js**
+
+Construindo aplicações web modernas com foco em **qualidade, experiência do usuário e resolução de problemas reais.**
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ofs-br\&color=0e75b6\&style=plastic)](https://github.com/ofs-br)
+[![GitHub followers](https://img.shields.io/github/followers/ofs-br?style=plastic\&logo=github)](https://github.com/ofs-br)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack em formação**, com foco atual no ecossistema **JavaScript/TypeScript**, especialmente **React e Next.js**.
+Sou **Desenvolvedor Full Stack em formação**, focado no ecossistema **JavaScript/TypeScript**, principalmente **React, Next.js e Node.js**.
 
-Minha experiência anterior em **gestão de negócios** contribui para uma visão que vai além da implementação técnica: busco compreender o problema, as necessidades do usuário e o impacto que uma solução pode gerar para o negócio.
+Minha experiência em **gestão de negócios** contribui para uma visão orientada ao **problema, usuário e impacto da solução**.
 
-Tenho interesse em construir aplicações que sejam:
-
-* 🧩 Bem estruturadas e escaláveis
-* 🎯 Orientadas à resolução de problemas reais
-* ⚡ Performáticas
-* 📱 Responsivas e acessíveis
-* 🔎 Pensadas para SEO e usabilidade
-* 🧪 Testáveis e fáceis de manter
-* 📈 Alinhadas aos objetivos do produto
-
-Atualmente, meu foco de desenvolvimento está no **Full Stack moderno**, aprofundando conhecimentos em frontend, backend, bancos de dados, testes, arquitetura e boas práticas de engenharia de software.
+> **Código é parte da solução. Entender o problema é o ponto de partida.**
 
 ---
 
-## 💻 Stack principal
+## 🧰 Tech Stack
 
-### Front-end
+### 🎨 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,styledcomponents)](https://skillicons.dev)
+<p align="left">
+<img src="https://cdn.simpleicons.org/html5" width="30" alt="HTML5">
+<img src="https://cdn.simpleicons.org/css" width="30" alt="CSS3">
+<img src="https://cdn.simpleicons.org/javascript" width="30" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/typescript" width="30" alt="TypeScript">
+<img src="https://cdn.simpleicons.org/react" width="30" alt="React">
+<img src="https://cdn.simpleicons.org/nextdotjs" width="30" alt="Next.js">
+<img src="https://cdn.simpleicons.org/tailwindcss" width="30" alt="Tailwind CSS">
+<img src="https://cdn.simpleicons.org/sass" width="30" alt="Sass">
+<img src="https://cdn.simpleicons.org/styledcomponents" width="30" alt="Styled Components">
+</p>
 
-**HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Sass · Styled Components**
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Sass`
 
-### Estado e arquitetura
+### ⚙️ Backend
 
-[![State](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+<p align="left">
+<img src="https://cdn.simpleicons.org/nodedotjs" width="30" alt="Node.js">
+<img src="https://cdn.simpleicons.org/fastify" width="30" alt="Fastify">
+<img src="https://cdn.simpleicons.org/express" width="30" alt="Express">
+<img src="https://cdn.simpleicons.org/nestjs" width="30" alt="NestJS">
+</p>
 
-**Redux · Redux Toolkit · Zustand**
+`Node.js` `Fastify` `Express` `NestJS` `REST APIs`
 
-### Back-end
+### 🔐 Authentication & Authorization
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,python)](https://skillicons.dev)
+<p align="left">
+<img src="https://cdn.simpleicons.org/betterauth" width="30" alt="Better Auth">
+<img src="https://authjs.dev/img/logo-sm.png" width="30" alt="Auth.js / NextAuth">
+<img src="https://cdn.simpleicons.org/clerk" width="30" alt="Clerk">
+</p>
 
-**Node.js · NestJS · Python · APIs REST**
+`Better Auth` `Auth.js / NextAuth` `Clerk` `Sessions` `OAuth` `RBAC`
 
-### Banco de dados e ORM
+### 🗄️ Database & ORM
 
-[![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma)](https://skillicons.dev)
+<p align="left">
+<img src="https://cdn.simpleicons.org/postgresql" width="30" alt="PostgreSQL">
+<img src="https://cdn.simpleicons.org/mongodb" width="30" alt="MongoDB">
+<img src="https://cdn.simpleicons.org/mysql" width="30" alt="MySQL">
+<img src="https://cdn.simpleicons.org/prisma" width="30" alt="Prisma">
+</p>
 
-**PostgreSQL · MongoDB · MySQL · Prisma**
+`PostgreSQL` `MongoDB` `MySQL` `Prisma`
 
-### Testes
+### 🧪 Testing
 
-[![Testing](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
+<p align="left">
+<img src="https://cdn.simpleicons.org/vitest" width="30" alt="Vitest">
+<img src="https://cdn.simpleicons.org/jest" width="30" alt="Jest">
+<img src="https://cdn.simpleicons.org/cypress" width="30" alt="Cypress">
+</p>
 
-**Jest · Vitest · Cypress · Testes unitários · Testes E2E**
+`Vitest` `Jest` `Cypress` `Unit Tests` `E2E`
 
-### Ferramentas e DevOps
+### 🛠️ Tooling & DevOps
 
-[![Tools](https://skillicons.dev/icons?i=git,github,bash,linux,docker,pnpm,vite,vercel)](https://skillicons.dev)
+<p align="left">
+<img src="https://cdn.simpleicons.org/git" width="30" alt="Git">
+<img src="https://cdn.simpleicons.org/github" width="30" alt="GitHub">
+<img src="https://cdn.simpleicons.org/linux" width="30" alt="Linux">
+<img src="https://cdn.simpleicons.org/docker" width="30" alt="Docker">
+<img src="https://cdn.simpleicons.org/pnpm" width="30" alt="pnpm">
+<img src="https://cdn.simpleicons.org/vite" width="30" alt="Vite">
+<img src="https://cdn.simpleicons.org/biome" width="30" alt="Biome">
+<img src="https://cdn.simpleicons.org/vercel" width="30" alt="Vercel">
+</p>
 
-**Git · GitHub · Linux · Bash · Docker · pnpm · Vite · Vercel**
+`Git` `GitHub` `Linux` `Docker` `pnpm` `Vite` `Biome` `Vercel`
 
 ---
 
-## 📚 Atualmente estudando
+## 🔬 Currently Exploring
 
-Minha jornada de aprendizado está concentrada principalmente em:
+<p align="left">
+<img src="https://cdn.simpleicons.org/betterauth" width="28" alt="Better Auth">
+<img src="https://cdn.simpleicons.org/zod" width="28" alt="Zod">
+<img src="https://cdn.simpleicons.org/docker" width="28" alt="Docker">
+<img src="https://cdn.simpleicons.org/biome" width="28" alt="Biome">
+</p>
+
+**Better Auth · Zod · Docker · Biome · Observabilidade · CI/CD · APIs de IA · LLMs**
+
+---
+
+## 🧠 Engineering Focus
 
 ```text
-Frontend
-├── React
-├── Next.js
-├── TypeScript
-├── Performance
-├── SEO
-└── Acessibilidade
-
-Backend
-├── Node.js
-├── APIs REST
-├── NestJS
-├── Autenticação
-└── Arquitetura
-
-Dados
-├── PostgreSQL
-├── Prisma
-├── MongoDB
-└── Modelagem de dados
-
-Engenharia
-├── Testes
-├── Docker
-├── CI/CD
-├── Observabilidade
-└── Arquitetura de software
+Architecture     → Modularity · Scalability · Maintainability
+Quality          → Testing · Type Safety · Code Quality
+Product          → UX · Performance · SEO · Accessibility
+Infrastructure   → Docker · CI/CD · Monitoring · Observability
+AI               → APIs · Automation · LLM Applications
 ```
-
-Também tenho interesse em **Inteligência Artificial aplicada ao desenvolvimento de software**, especialmente na integração de aplicações web com APIs e ferramentas de IA.
 
 ---
 
-## 🛠️ Como gosto de desenvolver
-
-Meu processo de desenvolvimento busca combinar **qualidade técnica + experiência do usuário + objetivos de negócio**.
+## 📚 Learning
 
 ```text
-Problema
-   ↓
-Entendimento do usuário
-   ↓
-Definição da solução
-   ↓
-Arquitetura
-   ↓
-Desenvolvimento
-   ↓
-Testes
-   ↓
-Performance & SEO
-   ↓
-Deploy
-   ↓
-Monitoramento
+Frontend    → React · Next.js · TypeScript · Performance · SEO
+Backend     → Node.js · Fastify · NestJS · REST APIs
+Security    → Authentication · Authorization · Sessions · RBAC
+Data        → PostgreSQL · Prisma · MongoDB · Data Modeling
+Engineering → Testing · Docker · CI/CD · Observability
+AI          → APIs · Automation · LLMs
 ```
 
-Acredito que escrever código é apenas uma parte do desenvolvimento de um produto. Entender **por que a solução está sendo construída** é igualmente importante.
-
 ---
 
-## 🌱 Projetos e aprendizado
-
-Aqui no GitHub você encontrará projetos desenvolvidos durante minha jornada de aprendizado e evolução profissional.
-
-Procuro transformar cada projeto em uma oportunidade para praticar conceitos como:
-
-* React e Next.js
-* TypeScript
-* APIs e integração entre serviços
-* Gerenciamento de estado
-* Autenticação e autorização
-* Banco de dados
-* Testes automatizados
-* Responsividade
-* SEO
-* Performance
-* Arquitetura
-* Deploy e infraestrutura
-
-> 🚧 Alguns projetos são experimentos de estudo e outros representam soluções mais próximas de aplicações reais.
-
----
-
-## ⭐ Projetos em destaque
+## ⭐ Featured Projects
 
 ### 🌲 Forest
 
-Projeto desenvolvido para praticar desenvolvimento frontend moderno, componentização, responsividade e experiência do usuário.
+Frontend desenvolvido para praticar **componentização, responsividade, UI e experiência do usuário**.
 
-🔗 **[Ver projeto](https://forest-ofs.netlify.app/)**
-💻 **[Ver código](https://github.com/emmanuelmarcosdeoliveira/forest)**
+`HTML` `CSS` `JavaScript`
 
----
+[**Live Demo →**](https://forest-ofs.netlify.app/) · [**Repository →**](https://github.com/emmanuelmarcosdeoliveira/forest)
 
 ### 🎯 Adivinha
 
-Aplicação de jogo de palavras desenvolvida com **React + TypeScript**, explorando componentes, gerenciamento de estado e organização de estilos.
+Jogo de palavras desenvolvido com **React + TypeScript**, explorando componentes, estado e organização de estilos.
 
-🔗 **[Ver projeto no GitHub](https://github.com/emmanuelmarcosdeoliveira)**
+`React` `TypeScript` `CSS Modules`
+
+[**Repository →**](https://github.com/emmanuelmarcosdeoliveira)
 
 ---
 
@@ -188,15 +168,11 @@ Aplicação de jogo de palavras desenvolvida com **React + TypeScript**, explora
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ofs-br&show_icons=true&hide_border=true&theme=react&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ofs-br&show_icons=true&hide_border=true&theme=react&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofs-br&layout=compact&hide_border=true&theme=react" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofs-br&layout=compact&hide_border=true&theme=react" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofs-br&theme=react&hide_border=true" />
 
@@ -204,30 +180,26 @@ Aplicação de jogo de palavras desenvolvida com **React + TypeScript**, explora
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎯 Professional Focus
 
-Busco oportunidades para atuar como **Desenvolvedor Front-end ou Full Stack**, contribuindo em equipes que valorizem:
+Busco oportunidades como **Front-end Developer ou Full Stack Developer**.
 
-* Aprendizado contínuo
-* Boas práticas de desenvolvimento
-* Colaboração
-* Qualidade de código
-* Experiência do usuário
-* Resolução de problemas
-* Evolução técnica
+**React · Next.js · TypeScript · Node.js**
 
-Tenho especial interesse pelo ecossistema **React / Next.js / TypeScript**, sem deixar de evoluir meus conhecimentos em backend e arquitetura.
+Evoluindo continuamente em:
+
+**Backend · Architecture · Infrastructure · Testing · Observability · AI**
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ofs-br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/5511968336094)
-[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ofs.dev.br@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic\&logo=github\&logoColor=white)](https://github.com/ofs-br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic\&logo=whatsapp\&logoColor=white)](https://wa.me/5511968336094)
+[![E-mail](https://img.shields.io/badge/Email-EA4335?style=plastic\&logo=gmail\&logoColor=white)](mailto:ofs.dev.br@gmail.com)
 
 </div>
 
@@ -235,24 +207,14 @@ Tenho especial interesse pelo ecossistema **React / Next.js / TypeScript**, sem 
 
 <div align="center">
 
-### 💡 Construindo, aprendendo e evoluindo todos os dias.
+### 💡 Building · Learning · Evolving
 
 **React · TypeScript · Next.js · Node.js · Full Stack**
 
+<sub>Open Source · Software Engineering · Continuous Learning</sub>
+
 </div>
 
-
 <!--
-**ofs-br/ofs-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ofs-br/ofs-br** is a ✨ _special_ ✨ repository because it appears on your GitHub profile.
 -->
