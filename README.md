@@ -109,7 +109,7 @@ _Código é parte da solução. Entender o problema é o ponto de partida._
 | **Database & ORM** | PostgreSQL, MongoDB, MySQL, Prisma, Drizzle |
 | **Software Testing** | Vitest, Jest, Cypress, Unit Testing, E2E Testing |
 | **Development Tools** | Git, GitHub, Linux, Vite, Eslint, Biome |
-| **Infrastructure & DevOps** | Docker, Vercel |
+| **Infrastructure & DevOps** | Docker, Linux, Coolify, Cloudflare, Vercel, Netlify, Render, Fly.io, GitHub Actions  |
 
 ### 🔬 Explorando...
 
