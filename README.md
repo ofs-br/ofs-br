@@ -1,14 +1,20 @@
 <div align="center">
 
-<img width="2089" height="231" alt="banner-github" src="https://github.com/user-attachments/assets/7ab89f22-d7a6-4012-aec3-22e299166b93" />
+<!-- <img width="2089" height="231" alt="banner-github" src="https://github.com/user-attachments/assets/7ab89f22-d7a6-4012-aec3-22e299166b93" /> -->
 
 # Emmanuel Oliveira
+
+</div>
+
+<div align="left">
 
 ### Full Stack Developer
 
 **React · Next.js · TypeScript · Node.js**
 
 _Construindo aplicações web modernas com foco em **qualidade, experiência do usuário e resolução de problemas reais.**_
+
+</div>
 
 <br>
 
@@ -20,209 +26,124 @@ _Construindo aplicações web modernas com foco em **qualidade, experiência do 
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack em formação**, focado no ecossistema **JavaScript/TypeScript**, principalmente **React, Next.js e Node.js**.
-
-Minha experiência em **gestão de negócios** contribui para uma visão orientada ao **problema, usuário e impacto da solução**.
-
-<br>
-
-> [!TIP]
-_Código é parte da solução. Entender o problema é o ponto de partida._
-> 
-
-<br>
+Sou **Desenvolvedor Full Stack**, com foco no ecossistema **JavaScript/TypeScript**, especialmente **React, Next.js e Node.js**. Graduado em **Redes de Computadores**, com experiência em **gestão de negócios**, reúno conhecimentos técnicos e uma visão estratégica, orientada à compreensão de problemas, às necessidades dos usuários e ao impacto das soluções desenvolvidas.
 
 
-## 🧰 Tech Stack
+Atualmente, curso a pós-graduação em **Full Stack Development pela Faculdade Impacta**, ampliando meus conhecimentos em desenvolvimento de software e aprofundando competências em arquitetura, engenharia e construção de aplicações modernas, escaláveis e seguras.
 
-### 🎨 Frontend
+A formação contempla diferentes áreas do desenvolvimento de software, com foco nas seguintes competências:
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/html5" width="30" alt="HTML5">
-<img src="https://cdn.simpleicons.org/css" width="30" alt="CSS3">
-<img src="https://cdn.simpleicons.org/javascript" width="30" alt="JavaScript">
-<img src="https://cdn.simpleicons.org/typescript" width="30" alt="TypeScript">
-<img src="https://cdn.simpleicons.org/react" width="30" alt="React">
-<img src="https://cdn.simpleicons.org/nextdotjs/white" width="30" alt="Next.js">
-<img src="https://cdn.simpleicons.org/tailwindcss" width="30" alt="Tailwind CSS">
-<img src="https://cdn.simpleicons.org/sass" width="30" alt="Sass">
-<img src="https://cdn.simpleicons.org/styledcomponents" width="30" alt="Styled Components">
-</p>
+### 💻 Desenvolvimento de Software
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Sass`
+- JavaScript e TypeScript: programação assíncrona, tipagem estática e boas práticas.
+- React, Next.js, Node.js, Express.
+- Go (Golang), Python e programação orientada a objetos.
+- Desenvolvimento de aplicações web e APIs.
 
-### ⚙️ Backend
+  
+### 🏗️ Arquitetura e Engenharia de Software
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/nodedotjs" width="30" alt="Node.js">
-<img src="https://cdn.simpleicons.org/fastify" width="30" alt="Fastify">
-<img src="https://cdn.simpleicons.org/express/white" width="30" alt="Express">
-<img src="https://cdn.simpleicons.org/nestjs" width="30" alt="NestJS">
-</p>
+- Clean Architecture, Design Patterns e princípios de baixo acoplamento.
+- Arquiteturas monolíticas, microsserviços e orientadas a eventos (EDA).
+- Domain-Driven Design (DDD) e System Design.
+- Modelagem, modularização, testes unitários e manutenção de software.
+-  Arquitetura MVVM, gerenciamento de estado e integração com APIs.
 
-`Node.js` `Fastify` `Express` `NestJS` `REST APIs`
+### 🗄️ Bancos de Dados e Integração
 
-### 🔐 Authentication & Authorization
+- Bancos relacionais e não relacionais (SQL e NoSQL).
+- MongoDB, Cassandra e Elasticsearch.
+- Bancos de dados vetoriais (Vector DB) e embeddings.
+- APIs REST, SOAP e GraphQL.
+- Autenticação com OAuth e JWT, mensageria e integração entre sistemas.
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/betterauth" width="30" alt="Better Auth">
-<img src="https://authjs.dev/img/logo-sm.png" width="30" alt="Auth.js / NextAuth">
-<img src="https://cdn.simpleicons.org/clerk" width="30" alt="Clerk">
-</p>
+### ☁️ Cloud, DevOps e Infraestrutura
 
-`Better Auth` `Auth.js / NextAuth` `Clerk` `Sessions` `OAuth` `RBAC`
+- Computação em nuvem: AWS, Azure e Google Cloud.
+- Docker, Kubernetes e infraestrutura como código (IaC).
+- GitHub Actions, automação de workflows e pipelines CI/CD.
+- Microsserviços, Service Mesh e deploy de aplicações.
+- Monitoramento e otimização com Prometheus, Grafana e New Relic.
 
-### 🗄️ Database & ORM
+### 🔐 Segurança e Qualidade de Software
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/postgresql" width="30" alt="PostgreSQL">
-<img src="https://cdn.simpleicons.org/mongodb" width="30" alt="MongoDB">
-<img src="https://cdn.simpleicons.org/mysql" width="30" alt="MySQL">
-<img src="https://cdn.simpleicons.org/prisma/white" width="30" alt="Prisma">
-</p>
+- Secure Development e práticas DevSecOps.
+- OWASP, criptografia, autenticação e controle de acesso.
+- Testes automatizados e práticas de desenvolvimento seguro.
+- Performance, escalabilidade, disponibilidade e monitoramento.
 
-`PostgreSQL` `MongoDB` `MySQL` `Prisma`
+### 🤖 Inteligência Artificial e Dados
 
-### 🧪 Testing
+- Fundamentos de Machine Learning e Deep Learning.
+- Python, Apache Spark e PySpark.
+- Scikit-learn e TensorFlow.
+- Processamento de dados e construção de pipelines para aplicações de IA.
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/vitest" width="30" alt="Vitest">
-<img src="https://cdn.simpleicons.org/jest" width="30" alt="Jest">
-<img src="https://cdn.simpleicons.org/cypress" width="30" alt="Cypress">
-</p>
+### 🎨 UX/UI, Metodologias Ágeis e Gestão
 
-`Vitest` `Jest` `Cypress` `Unit Tests` `E2E`
-
-### 🛠️ Tooling & DevOps
-
-<p align="left">
-<img src="https://cdn.simpleicons.org/git" width="30" alt="Git">
-<img src="https://cdn.simpleicons.org/github/white" width="30" alt="GitHub">
-<img src="https://cdn.simpleicons.org/linux" width="30" alt="Linux">
-<img src="https://cdn.simpleicons.org/docker" width="30" alt="Docker">
-<img src="https://cdn.simpleicons.org/vite" width="30" alt="Vite">
-<img src="https://cdn.simpleicons.org/biome" width="30" alt="Biome">
-<img src="https://cdn.simpleicons.org/vercel/white" width="30" alt="Vercel">
-</p>
-
-`Git` `GitHub` `Linux` `Docker` `Vite` `Biome` `Vercel`
-
-
-## 🔬 Currently Exploring
-
-<p align="left">
-<img src="https://cdn.simpleicons.org/betterauth" width="28" alt="Better Auth">
-<img src="https://cdn.simpleicons.org/zod" width="28" alt="Zod">
-<img src="https://cdn.simpleicons.org/docker" width="28" alt="Docker">
-<img src="https://cdn.simpleicons.org/biome" width="28" alt="Biome">
-</p>
-
-**Better Auth · Zod · Docker · Biome · Observabilidade · CI/CD · APIs de IA · LLMs**
-
-
-## 🧠 Engineering Focus
-
-Architecture → Modularity · Scalability · Maintainability
-
-Quality → Testing · Type Safety · Code Quality
-
-Product → UX · Performance · SEO · Accessibility
-
-Infrastructure → Docker · CI/CD · Monitoring · Observability
-
-AI → APIs · Automation · LLM Applications
-
-
-## 📚 Learning
-
-Frontend → React · Next.js · TypeScript · Performance · SEO
-
-Backend → Node.js · Fastify · NestJS · REST APIs
-
-Security → Authentication · Authorization · Sessions · RBAC
-
-Data → PostgreSQL · Prisma · MongoDB · Data Modeling
-
-Engineering → Testing · Docker · CI/CD · Observability
-
-AI → APIs · Automation · LLMs
-
-
-## ⭐ Featured Projects
+- UX/UI, Experience Design e prototipagem com Figma.
+- Design responsivo, acessibilidade e usabilidade.
+- Scrum, XP, TDD, FDD e SAFe.
+- Web Analytics, métricas, testes A/B e análise de comportamento dos usuários.
+- Gestão ágil com Management 3.0.
 
 <br>
 
->[!NOTE]
- _➡️ clique na seta  para ver os detalhes de cada projeto_
->
->
-<br>
+| Área | Tecnologias e conhecimentos |
+|---|---|
+| **Frontend Development** | React, Next.js, Astro, TypeScript, JavaScript, TailwindCSS, Styled-Components, HTML, CSS, |
+| **Backend Development** | Node.js, Fastify, Express, NestJS, REST APIs |
+| **Authentication** | Better Auth, Auth.js, Clerk, OAuth, RBAC |
+| **Database & ORM** | PostgreSQL, MongoDB, MySQL, Prisma, Drizzle |
+| **Software Testing** | Vitest, Jest, Cypress, Unit Testing, E2E Testing |
+| **Development Tools** | Git, GitHub, Linux, Vite, Eslint, Biome |
+| **Infrastructure & DevOps** | Docker, Linux, Coolify, Cloudflare, Vercel, Netlify, Render, Fly.io, GitHub Actions  |
 
-<details>
-<summary><strong>🌲 Forest</strong></summary>
+### 🔬 Explorando...
 
-Forest é uma landing-page de acomodações, em um lugar incrível com vários atrativos de passeios e lugares para conhecer.
+- **Software Engineering:** Observability e CI/CD.
+- **Artificial Intelligence:** APIs de IA e LLMs.
+- **Infrastructure:** Docker e automação de ambientes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/emmanuelmarcosdeoliveira/forest)
-[![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://forest-ofs.netlify.app/)
-
-</details>
-
-
-<details>
-<summary><strong>🎯 Adivinha</strong></summary>
 
 <br>
 
-Que palavra é essa, esse é o proposito do Adivinhe é uma aplicação Web, um game de adivinhar palavras. No desenvolvimento do game foi cadastrada algumas palavras referentes a tecnologias da web, para que o usuário possa tentar adivinhar através de sugestão de letras.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ofs-br/adivinhe)
-[![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://adivinhe-sage.vercel.app/)
+### 🚀 Meus Projetos
 
 
-
-</details>
-
-<details>
-<summary><strong>📲 Refund </strong></summary>
-
-Aplicação web fullstack React para gestão de reembolsos, construída com Vite e TypeScript, estilizada com TailwindCSS e validações com Zod. Roteamento via React Router e consumo de API com Axios.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ofs-br/refund-v2.0)
-[![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://refund-ofs.vercel.app/)
-
-</details>
+<sub>Abaixo alguns dos meus projetos 🥇</sub>
 
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ofs-br&show_icons=true&hide_border=true&theme=react&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofs-br&layout=compact&hide_border=true&theme=react" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofs-br&theme=react&hide_border=true" />
-
-</div>
+| Nome do projeto | Descrição | Tipo | Tecnologias | Repositório | Versão online |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Refund** | <sub>Aplicação web fullstack React para gestão de reembolsos</sub> | Full Stack | `React`, `TypeScript`, `TailwindCSS`, `React Router` `Axios`, `Sonner` `Node.js` `Express` | [GitHub](https://github.com/ofs-br/refund-v2.0) | [Acessar](https://refund-ofs.vercel.app/) |
+| **Barber Shop** | <sub>Aplicação de agendamento para barbearias: o cliente encontra estabelecimentos, filtra por nome ou serviço, vê detalhes e horários, e marca, ou cancela atendimentos.</sub>| Full Stack | `Next.js`,`NextAuth`,`PostgreSQL`,`TypeScript`, `TailwindCSS`, `Zod`  | [GitHub](https://github.com/ofs-br/barber-shop) | [Acessar](https://barber-shop-zeta-eight.vercel.app/) |
+| **Adivinhe** |<sub>Que palavra é essa, esse é o proposito do Adivinhe é uma aplicação Web, um game de adivinhar palavras.</sub> | Front-end | `React`, `TypeScript`, `CSS Modules` | [GitHub](https://github.com/ofs-br/adivinhe) | [Acessar](https://adivinhe-sage.vercel.app/) |
+| **Dogs** |<sub>Uma Rede Sociais para cachorros com sistema de login,  onde é possível postar fotos, fazer comentários<sub>  | Front-end | `React`, `JavaScript`, `CSS Modules` | [GitHub](https://github.com/ofs-br/dogs-ofs) | [Acessar](https://ofs-dogs.vercel.app/) |
+| **Photo Galleries** |<sub>Photo Galleries é uma aplicação full-stack para organizar galerias de fotos com um fluxo simples de criação, busca, upload e associação a álbuns.</sub>| Full Stack | `React`, `TypeScript`, `TailwindCSS` `TanStackQuery`, `Node.js`, `Fastify` `Zod` | [GitHub](https://github.com/ofs-br/photo-galleries) |  |
+| **Pizza Shop** |<sub>O pizza.shop é uma plataforma de controle de vendas para logistas que possuem restaurantes dentro de aplicativos de delivery.</sub> | Full Stack | `React`, `TypeScript`, `TailwindCSS`, `React Router`, `TanstackQuery`, `Axios`, `Sonner` `Bun` `Elysia` `Zod`  | [GitHub](https://github.com/ofs-br/pizza-shop) |  |
+| **Log Express** |<sub>API RESTful desenvolvida em Node.js com TypeScript para gerenciamento de encomendas e logs de entrega.</sub>| Back-end | `Node.js`, `Express`, `PostegreSQL`, `Prisma ORM`, `TypeScript`, `Jest`  | [GitHub](https://github.com/ofs-br/log-express-api) |  |
 
 
-## 🎯 Professional Focus
+### 📊 GitHub
 
-Busco oportunidades como **Front-end Developer ou Full Stack Developer**.
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/ofs-br?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/ofs-br">
+</picture>
+<div>
 
-**React · Next.js · TypeScript · Node.js**
-
-Evoluindo continuamente em:
-
-**Backend · Architecture · Infrastructure · Testing · Observability · AI**
 
 
-## 📫 Let's Connect
 
-<div align="center">
+
+
+
+### 📫 Vamos nos conectar!
+Abaixo estão as minhas redes sociais e contatos 
+
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveira-emmanuel/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ofs-br)
@@ -230,19 +151,3 @@ Evoluindo continuamente em:
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:ofs.dev.br@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 Building · Learning · Evolving
-
-**React · TypeScript · Next.js · Node.js · Full Stack**
-
-<sub>Open Source · Software Engineering · Continuous Learning</sub>
-
-</div>
-
-<!--
-**ofs-br/ofs-br** is a ✨ _special_ ✨ repository because it appears on your GitHub profile.
--->
