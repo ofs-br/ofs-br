@@ -161,13 +161,7 @@ AI → APIs · Automation · LLMs
 <details>
 <summary><strong>🌲 Forest</strong></summary>
 
-<br>
-
-Frontend desenvolvido para praticar **componentização, responsividade, UI e experiência do usuário**.
-
-`HTML` `CSS` `JavaScript`
-
-<br>
+Forest é uma landing-page de acomodações, em um lugar incrível com vários atrativos de passeios e lugares para conhecer.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/emmanuelmarcosdeoliveira/forest)
 [![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://forest-ofs.netlify.app/)
@@ -180,16 +174,22 @@ Frontend desenvolvido para praticar **componentização, responsividade, UI e ex
 
 <br>
 
-Jogo de palavras desenvolvido com **React + TypeScript**, explorando componentes, estado e organização de estilos.
-
-`React` `TypeScript` `CSS Modules`
-
-<br>
+Que palavra é essa, esse é o proposito do Adivinhe é uma aplicação Web, um game de adivinhar palavras. No desenvolvimento do game foi cadastrada algumas palavras referentes a tecnologias da web, para que o usuário possa tentar adivinhar através de sugestão de letras.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ofs-br/adivinhe)
 [![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://adivinhe-sage.vercel.app/)
 
 
+
+</details>
+
+<details>
+<summary><strong>📲 Refund </strong></summary>
+
+Aplicação web fullstack React para gestão de reembolsos, construída com Vite e TypeScript, estilizada com TailwindCSS e validações com Zod. Roteamento via React Router e consumo de API com Axios.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ofs-br/refund-v2.0)
+[![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://refund-ofs.vercel.app/)
 
 </details>
 
