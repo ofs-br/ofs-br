@@ -124,11 +124,11 @@ _Código é parte da solução. Entender o problema é o ponto de partida._
 ### 🚀 Meus Projetos
 
 | Nome do projeto | Descrição | Tipo | Tecnologias | Repositório | Versão online |
-|:---|:---|:---:|:---|:---:|:---:|
-| **E-commerce** | Aplicação de comércio eletrônico com carrinho de compras e checkout. | Full Stack | React, TypeScript, Styled Components | [GitHub](https://github.com/seu-usuario/ecommerce) | [Acessar](https://ecommerce.vercel.app) |
-| **Portfolio** | Site pessoal para apresentação de projetos, habilidades e experiências. | Front-end | Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/seu-usuario/portfolio) | [Acessar](https://portfolio.vercel.app) |
-| **API de Produtos** | API REST para gerenciamento de produtos, categorias e estoque. | Back-end | Node.js, Fastify, PostgreSQL, Drizzle ORM | [GitHub](https://github.com/seu-usuario/api-produtos) | [Acessar](https://api-produtos.vercel.app) |
-| **Adivinha** | Jogo de adivinhação de palavras com interface interativa. | Front-end | React, TypeScript, CSS Modules | [GitHub](https://github.com/seu-usuario/adivinha) | [Acessar](https://adivinha.vercel.app) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Refund** | Aplicação web fullstack React para gestão de reembolsos | Full Stack | `React`, `TypeScript`, `TailwindCSS`, `React Router` `Axios`, `Sonner` | [GitHub](https://github.com/ofs-br/refund-v2.0) | [Acessar](https://refund-ofs.vercel.app/) |
+| **Photo Galleries** | Photo Galleries é uma aplicação full-stack para organizar galerias de fotos com um fluxo simples de criação, busca, upload e associação a álbuns.| Full Stack | `React`, `TypeScript`, `TailwindCSS` `TanStackQuery` `Fastify` `Zod` | [GitHub](https://github.com/ofs-br/photo-galleries) | [Acessar]() |
+| **Barber Shop** | Aplicação de agendamento para barbearias: o cliente encontra estabelecimentos, filtra por nome ou serviço, vê detalhes e horários, e marca, ou cancela atendimentos.| Full Stack | `Next.js`,`NextAuth`,`PostgreSQL`,`TypeScript`, `TailwindCSS`, `Zod`  | [GitHub](https://github.com/ofs-br/barber-shop) | [Acessar](https://barber-shop-zeta-eight.vercel.app/) |
+| **Adivinhe** | Que palavra é essa, esse é o proposito do Adivinhe é uma aplicação Web, um game de adivinhar palavras. | Front-end | `React`, `TypeScript`, `CSS Modules` | [GitHub](https://github.com/ofs-br/adivinhe) | [Acessar](https://adivinhe-sage.vercel.app/) |
 
 
 ### 📊 GitHub
