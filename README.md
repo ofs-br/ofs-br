@@ -26,10 +26,10 @@ _Construindo aplicações web modernas com foco em **qualidade, experiência do 
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack**, focado no ecossistema **JavaScript/TypeScript**, principalmente **React, Next.js e Node.js**.
-Graduado em **Redes de Computadores** com experiência em **gestão de negócios** contribui para uma visão orientada ao **problema, usuário e impacto da solução**.
-Atualmente, estou cursando a pós-graduação em Full Stack Development pela Faculdade Impacta, ampliando meus conhecimentos em desenvolvimento de software e aprofundando competências em arquitetura, engenharia e construção de aplicações modernas, escaláveis e seguras.
+Sou **Desenvolvedor Full Stack**, com foco no ecossistema **JavaScript/TypeScript**, especialmente **React, Next.js e Node.js**. Graduado em **Redes de Computadores**, com experiência em **gestão de negócios**, reúno conhecimentos técnicos e uma visão estratégica, orientada à compreensão de problemas, às necessidades dos usuários e ao impacto das soluções desenvolvidas.
 
+
+Atualmente, curso a pós-graduação em **Full Stack Development pela Faculdade Impacta**, ampliando meus conhecimentos em desenvolvimento de software e aprofundando competências em arquitetura, engenharia e construção de aplicações modernas, escaláveis e seguras.
 
 A formação contempla diferentes áreas do desenvolvimento de software, com foco nas seguintes competências:
 
@@ -130,6 +130,7 @@ _Código é parte da solução. Entender o problema é o ponto de partida._
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Refund** | Aplicação web fullstack React para gestão de reembolsos | Full Stack | `React`, `TypeScript`, `TailwindCSS`, `React Router` `Axios`, `Sonner` `Node.js` `Express` | [GitHub](https://github.com/ofs-br/refund-v2.0) | [Acessar](https://refund-ofs.vercel.app/) |
 | **Photo Galleries** | Photo Galleries é uma aplicação full-stack para organizar galerias de fotos com um fluxo simples de criação, busca, upload e associação a álbuns.| Full Stack | `React`, `TypeScript`, `TailwindCSS` `TanStackQuery`, `Node.js`, `Fastify` `Zod` | [GitHub](https://github.com/ofs-br/photo-galleries) | [Acessar]() |
+| **Pizza Shop** | O pizza.shop é uma plataforma de controle de vendas para logistas que possuem restaurantes dentro de aplicativos de delivery. | Full Stack | `React`, `TypeScript`, `TailwindCSS`, `React Router`, `TanstackQuery`, `Axios`, `Sonner` `Bun` `Elysia` `Zod`  | [GitHub](https://github.com/ofs-br/pizza-shop) | [Acessar]() |
 | **Log Express** | API RESTful desenvolvida em Node.js com TypeScript para gerenciamento de encomendas e logs de entrega.| Back-end | `Node.js`, `Express`, `PostegreSQL`, `Prisma ORM`, `TypeScript`, `Jest`  | [GitHub](https://github.com/ofs-br/log-express-api) | [Acessar]() |
 | **Barber Shop** | Aplicação de agendamento para barbearias: o cliente encontra estabelecimentos, filtra por nome ou serviço, vê detalhes e horários, e marca, ou cancela atendimentos.| Full Stack | `Next.js`,`NextAuth`,`PostgreSQL`,`TypeScript`, `TailwindCSS`, `Zod`  | [GitHub](https://github.com/ofs-br/barber-shop) | [Acessar](https://barber-shop-zeta-eight.vercel.app/) |
 | **Adivinhe** | Que palavra é essa, esse é o proposito do Adivinhe é uma aplicação Web, um game de adivinhar palavras. | Front-end | `React`, `TypeScript`, `CSS Modules` | [GitHub](https://github.com/ofs-br/adivinhe) | [Acessar](https://adivinhe-sage.vercel.app/) |
