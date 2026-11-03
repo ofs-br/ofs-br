@@ -103,12 +103,12 @@ _Código é parte da solução. Entender o problema é o ponto de partida._
 
 | Área | Tecnologias e conhecimentos |
 |---|---|
-| **Frontend Development** | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| **Frontend Development** | React, Next.js, Astro, TypeScript, JavaScript, TailwindCSS, Styled-Components, HTML, CSS, |
 | **Backend Development** | Node.js, Fastify, Express, NestJS, REST APIs |
 | **Authentication** | Better Auth, Auth.js, Clerk, OAuth, RBAC |
-| **Database & ORM** | PostgreSQL, MongoDB, MySQL, Prisma |
+| **Database & ORM** | PostgreSQL, MongoDB, MySQL, Prisma, Drizzle |
 | **Software Testing** | Vitest, Jest, Cypress, Unit Testing, E2E Testing |
-| **Development Tools** | Git, GitHub, Linux, Vite, Biome |
+| **Development Tools** | Git, GitHub, Linux, Vite, Eslint, Biome |
 | **Infrastructure & DevOps** | Docker, Vercel |
 
 ### 🔬 Explorando...
