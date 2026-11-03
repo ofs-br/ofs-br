@@ -187,6 +187,9 @@ Jogo de palavras desenvolvido com **React + TypeScript**, explorando componentes
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=plastic&logo=github&logoColor=white)](https://github.com/ofs-br/adivinhe)
+[![Projeto Online](https://img.shields.io/badge/Projeto_Online-000000?style=plastic&logo=googleearth&logoColor=white)](https://adivinhe-sage.vercel.app/)
+
+
 
 </details>
 
