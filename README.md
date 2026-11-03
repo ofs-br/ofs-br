@@ -89,13 +89,6 @@ A formação contempla diferentes áreas do desenvolvimento de software, com foc
 
 <br>
 
-> [!TIP]
-_Código é parte da solução. Entender o problema é o ponto de partida._
-> 
-<br>
-
-### 🚀 Habilidades Técnicas
-
 | Área | Tecnologias e conhecimentos |
 |---|---|
 | **Frontend Development** | React, Next.js, Astro, TypeScript, JavaScript, TailwindCSS, Styled-Components, HTML, CSS, |
@@ -115,8 +108,8 @@ _Código é parte da solução. Entender o problema é o ponto de partida._
 
 <br>
 
-
 ### 🚀 Meus Projetos
+
 
 <sub>Abaixo alguns dos meus projetos 🥇</sub>
 
@@ -134,17 +127,14 @@ _Código é parte da solução. Entender o problema é o ponto de partida._
 
 ### 📊 GitHub
 
-<div height=200 align="left">
-
-
-
+<div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/ofs-br?theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/ofs-br">
 </picture>
 <div>
 
-</div>
+
 
 
 
