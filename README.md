@@ -28,6 +28,7 @@ _Construindo aplicações web modernas com foco em **qualidade, experiência do 
 
 Sou **Desenvolvedor Full Stack**, com foco no ecossistema **JavaScript/TypeScript**, especialmente **React, Next.js e Node.js**. Graduado em **Redes de Computadores**, com experiência em **gestão de negócios**, reúno conhecimentos técnicos e uma visão estratégica, orientada à compreensão de problemas, às necessidades dos usuários e ao impacto das soluções desenvolvidas.
 
+Tenho grande interesse em novos desafios e estou aberto a aprender novas tecnologias, adaptar-me às ferramentas, metodologias e necessidades da equipe, sempre com disposição para compartilhar conhecimentos, contribuir com os resultados e continuar evoluindo profissionalmente.
 
 Atualmente, curso a pós-graduação em **Full Stack Development pela Faculdade Impacta**, ampliando meus conhecimentos em desenvolvimento de software e aprofundando competências em arquitetura, engenharia e construção de aplicações modernas, escaláveis e seguras.
 
