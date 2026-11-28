@@ -95,14 +95,14 @@ A formação contempla diferentes áreas do desenvolvimento de software, com foc
 | **Frontend Development** | React, Next.js, Astro, TypeScript, JavaScript, TailwindCSS, Styled-Components, HTML, CSS, |
 | **Backend Development** | Node.js, Fastify, Express, NestJS, REST APIs |
 | **Authentication** | Better Auth, Auth.js, Clerk, OAuth, RBAC |
-| **Database & ORM** | PostgreSQL, MongoDB, MySQL, Prisma, Drizzle |
+| **Database & ORM** | PostgreSQL, MySQL, Prisma, Drizzle |
 | **Software Testing** | Vitest, Jest, Cypress, Unit Testing, E2E Testing |
 | **Development Tools** | Git, GitHub, Linux, Vite, Eslint, Biome |
 | **Infrastructure & DevOps** | Docker, Linux, Coolify, Cloudflare, Vercel, Netlify, Render, Fly.io, GitHub Actions  |
 
 ### 🔬 Explorando...
 
-- **Software Engineering:** Observability e CI/CD.
+- **Software Engineering:** CI/CD.
 - **Artificial Intelligence:** APIs de IA e LLMs.
 - **Infrastructure:** Docker e automação de ambientes.
 
